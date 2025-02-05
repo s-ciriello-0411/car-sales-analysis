@@ -1,5 +1,5 @@
 # car-sales-analysis
-permorming some data analysis on a set of data to answer questions.
+performing some data analysis on a set of data to answer questions.
 
 ## Tools
 - **Programming language**: SQL (BigQuery)
